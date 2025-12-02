@@ -9,4 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
+*.lock
 game_state.jsonl
